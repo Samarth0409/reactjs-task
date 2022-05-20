@@ -1,6 +1,4 @@
-# About Invoicer - Read the note at the end
-
-#### https://invoicerv2.netlify.app
+# Invoicer Project Trademarkia 
 
 ![alt](./Screenshot.png)
 
@@ -14,4 +12,11 @@
 6. Preview your invoice.
 7. Print your invoice.
 
+## To run this project
+1. clone this repository
+2. npm install
+3. npm start
+4. For deploying it into netlify 
+5. npm build 
+6. Then drag and drop build folder to netlify site
 ### Built by [Samarth Sinha](https://samarthsinha.netlify.app)
